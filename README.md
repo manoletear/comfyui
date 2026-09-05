@@ -16,7 +16,7 @@ y entrenamiento de LoRAs. Incluye documentación de integraciones con agentes IA
 | nodes/ | Guías de nodos personalizados esenciales |
 | workflows/ | Workflows JSON listos para usar |
 | models/ | Catálogos y guías de modelos |
-| scripts/ | Scripts de utilidad (incluyendo comfyui_run.py) |
+| scripts/ | Scripts de utilidad (comfyui_run.py, generate_avatar.py) |
 | comfyui-expert/ | Documentación del orquestador VideoAgent (MCKRUZ) |
 | references/ | Atajos, API, comparativa de integraciones |
 
